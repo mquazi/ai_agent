@@ -9,7 +9,7 @@ from langchain_openai import ChatOpenAI
 from PyPDF2 import PdfReader
 
 # API configuration for Deepseek
-DEEPSEEK_API_KEY = "sk-41d94687443b426dbe8cc518c5a32482"  
+DEEPSEEK_API_KEY = ""  
 DEEPSEEK_API_BASE = "https://api.deepseek.com/v1"
 
 # Configure webpage
